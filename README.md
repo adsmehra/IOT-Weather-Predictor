@@ -291,7 +291,7 @@ private fun loadModelFile(): ByteBuffer {
 ```
 # Steps for Development
 
-![image](https://github.com/adsmehra/IOT-Weather-Predictor/assets/64251955/fe51a6c5-3204-4604-b9c9-77060d17b218)
+![image](https://github.com/adsmehra/IOT-Weather-Predictor/assets/64251955/fe51a6c5-3204-4604-b9c9-77060d17b218){:height="250px"}
 ![image-1](https://github.com/adsmehra/IOT-Weather-Predictor/assets/64251955/c2dbdbe4-24bd-46c8-a6b0-2a6d6c852318)
 ![image-2](https://github.com/adsmehra/IOT-Weather-Predictor/assets/64251955/f7c636ff-a385-4081-ad0f-b7943f5ab09e)
 ![image-3](https://github.com/adsmehra/IOT-Weather-Predictor/assets/64251955/a9668393-2d3a-459b-bcef-4d48e4a823de)
