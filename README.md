@@ -37,7 +37,9 @@ This Android app fetches real-time temperature and humidity data from IoT device
 # UI XML File
 How your app looks is specified in the activity_main.xml [here](https://github.com/adsmehra/IOT-Weather-Predictor/blob/main/app/src/main/res/layout/activity_main.xml)
 
-# JSON file access link
+# JSON Snippet 
+
+The provided JSON snippet contains a series of temperature and humidity data readings from a device named "Iot-Raspberry". Each entry includes the temperature and humidity values along with additional metadata such as the event processing time, partition ID, and IoT Hub information. These readings are timestamped events, likely collected periodically from a sensor or IoT device. The data is organized in chronological order, showing the temperature and humidity measurements over time. This data could be utilized for various applications such as environmental monitoring, climate control, or predictive analytics.
 [json file](https://sensor1data.blob.core.windows.net/onlinesensordata/0_161b469607c84a04a037505b8ebeaca3_1.json?zin++eomthOe501JF2P7VJefVr646GhbuCMbqaMyMfdl59eH6n3fwIbGKzuzbnfyg61aRqE1cjsv+ASt5YbUjQ==)
 
 # ML Part
